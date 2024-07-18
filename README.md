@@ -1,8 +1,8 @@
 # SPGC
-Graph Compression for Graph Neural Network Inference at Scale
+Graph Compression for Graph Neural Network Inference at Scale.
 
 This repository contains the code for the reproducibility of the experiments presented in the paper "Graph Compression for Graph Neural Network Inference at Scale". 
-In this paper, we propose a novel inference-preserving graph compression (IPGC), a graph data compression scheme to scale GNNs inference.
+This paper proposes inference-preserving graph compression (IPGC), a graph data compression scheme to scale GNNs inference.
 
 ## Organization of the code
 
